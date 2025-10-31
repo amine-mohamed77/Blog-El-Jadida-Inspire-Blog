@@ -56,6 +56,3 @@ so that she can stay connected to her city and its people without wasting time.
 For the **tourist visitor**, who lacks access to authentic and well-presented cultural content,  
 we want to build a **story-sharing platform** that gathers articles, photos, and local experiences from the community,  
 so that they can discover Meknes’ heritage and plan meaningful visits even with a limited connection.
-
-
-pandoc branche_fonctionnelle.md -o branche_fonctionnelle.docx
